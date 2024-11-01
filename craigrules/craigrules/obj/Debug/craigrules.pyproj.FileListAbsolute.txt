@@ -1,0 +1,12 @@
+C:\Users\birkholz.l\Desktop\programing 1\craigrules\craigrules\bin\Debug\craigrules.exe.config
+C:\Users\birkholz.l\Desktop\programing 1\craigrules\craigrules\bin\Debug\craigrules.exe
+C:\Users\birkholz.l\Desktop\programing 1\craigrules\craigrules\bin\Debug\craigrules.dll
+C:\Users\birkholz.l\Desktop\programing 1\craigrules\craigrules\bin\Debug\IronPython.dll
+C:\Users\birkholz.l\Desktop\programing 1\craigrules\craigrules\bin\Debug\IronPython.Modules.dll
+C:\Users\birkholz.l\Desktop\programing 1\craigrules\craigrules\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\birkholz.l\Desktop\programing 1\craigrules\craigrules\bin\Debug\Microsoft.Scripting.dll
+C:\Users\birkholz.l\Desktop\programing 1\craigrules\craigrules\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\birkholz.l\Desktop\programing 1\craigrules\craigrules\obj\Debug\craigrules.pyprojResolveAssemblyReference.cache
+C:\Users\birkholz.l\Desktop\programing 1\craigrules\craigrules\obj\Debug\craigrules.MainForm.resources
+C:\Users\birkholz.l\Desktop\programing 1\craigrules\craigrules\obj\Debug\craigrules.pyproj.GenerateResource.Cache
+C:\Users\birkholz.l\Desktop\programing 1\craigrules\craigrules\obj\Debug\craigrules.exe
